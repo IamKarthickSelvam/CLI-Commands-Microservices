@@ -106,3 +106,7 @@ C:\Stuff\Coding\Practice\E3\CommandsService\obj\Debug\net8.0\CommandsService.gen
 C:\Stuff\Coding\Practice\E3\CommandsService\obj\Debug\net8.0\ref\CommandsService.dll
 C:\Stuff\Coding\Practice\E3\CommandsService\bin\Debug\net8.0\appsettings.Production.json
 C:\Stuff\Coding\Practice\E3\CommandsService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Stuff\Coding\Practice\E3\CommandsService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Stuff\Coding\Practice\E3\CommandsService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Stuff\Coding\Practice\E3\CommandsService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Stuff\Coding\Practice\E3\CommandsService\bin\Debug\net8.0\Grpc.Net.Common.dll
